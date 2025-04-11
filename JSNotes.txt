@@ -1,0 +1,2 @@
+how to connect mongo db with servelet, 
+wap to fetch user detail for reg. page and insret into data base
